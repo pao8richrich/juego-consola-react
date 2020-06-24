@@ -1,0 +1,22 @@
+{
+    "name": "game-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel -p 3000 --no-cache serve index.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nikodermus/game-template.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nikodermus/game-template/issues"
+    },
+    "homepage": "https://github.com/Nikodermus/game-template#readme",
+    "dependencies": {
+        "parcel": "^1.12.4"
+    }
+}
