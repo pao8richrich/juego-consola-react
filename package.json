@@ -17,6 +17,6 @@
     },
     "homepage": "https://github.com/Nikodermus/game-template#readme",
     "dependencies": {
-        "parcel": "^1.12.4"
+        "parcel": "^2.8.2"
     }
 }
